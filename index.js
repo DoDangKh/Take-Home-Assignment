@@ -44,7 +44,7 @@ function filterMerchants(offer) {
 }
 
 
-function filter1(offers) {
+function filter(offers) {
 
     //First loop to remove all non valid information
     for (let i = 0; i < offers.length; i++) {
